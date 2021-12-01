@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js"></script>
+  
+  <title>Макет сайта</title>
+
+  
+
+  <!-- Begin #bottomMenu -->
+
+  <script>
+
+    $(function () {
+      //We initially hide the all dropdown menus
+      $('#dropdown_nav li').find('.sub_nav').hide();
+
+      //When hovering over the main nav link we find the dropdown menu to the corresponding link.
+      $('#dropdown_nav li').hover(function () {
+        //Find a child of 'this' with a class of .sub_nav and make the beauty fadeIn.
+        $(this).find('.sub_nav').fadeIn(400);
+      }, function () {
+        //Do the same again, only fadeOut this time.
+        $(this).find('.sub_nav').fadeOut(100);
+      });
+    });
+
+  </script>
+
+</head>
+
+<body>
+
+  <!-- Начало хидер -->
+ 
+
+      <!-- Начало #bottomMenu -->
+
+
+      <!-- конец #bottomMenu -->
+
+   <!-- Конец хидер -->
+
+ 
+
+  <!-- начало врапер -->
+
+
+          <!-- Начало .postBox -->
+        
+          <!-- Конец .postBox -->
+
+          
+          <!-- Начало .postBox -->
+         
+          <!-- Конец .postBox -->
+        
+
+          <!-- Начало .postBox -->
+         
+          <!-- Конец .postBox -->
+
+          
+
+          <!-- Начало .postBox -->
+        
+          <!-- Конец .postBox -->
+
+         
+
+        <!-- Конец коллефт -->
+
+      <!-- Конец колрайт -->
+      <!-- Конец контент -->
+   <!-- Конец мидл -->
+  <!-- Конец врапер -->
+
+  <!-- Начало футер -->
+
+  <!-- Конец футериннер -->
+ 
+  <!-- Конец футер -->
+
+</body>
+
+</html>
