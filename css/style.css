@@ -180,6 +180,7 @@ a:hover{
   -moz-transition: background-color 0.3s 0.01s ease;
   -o-transition: background-color 0.3s 0.01s ease;
   -webkit-transition: background-color 0.3s 0.01s ease;
+  transition: background-color 0.3s 0.01s ease;
 }
 #dropdown_nav li a:hover{
   background: #000;
@@ -189,6 +190,7 @@ a:hover{
 #dropdown_nav li a.first{
   -moz-border-radius:5px 0px 0px 5px;
   -webkit-border-radius:5px 0px 0px 5px;
+  border-radius:5px 0px 0px 5px;
 }
 /*Выпадающее меню*/
 #dropdown_nav .sub_nav{
@@ -252,6 +254,7 @@ a:hover{
   -moz-transition: all 0.3s 0.01s ease;
   -o-transition: all 0.3s 0.01s ease;
   -webkit-transition: all 0.3s 0.01s ease;
+  transition: all 0.3s 0.01s ease;
 }
 .postBox h2 a:hover{
   color: #0dbfe5;
@@ -283,6 +286,7 @@ a:hover{
   -moz-transition: all 0.3s 0.01s ease;
   -o-transition: all 0.3s 0.01s ease;
   -webkit-transition: all 0.3s 0.01s ease;
+  transition: all 0.3s 0.01s ease;
 }
 .more-link a:hover{
   background: #000;
