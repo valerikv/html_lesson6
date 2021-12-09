@@ -75,7 +75,7 @@ a:hover{
   border: 0px solid #1fa2e1;
 }
 .topMenuRight ul li{
-  background: url(images/line.png) 0px 0px no-repeat;
+  background: url(images/tumbs/line.png) 0px 0px no-repeat;
   float: left;
   height: 57px;
 }
@@ -110,19 +110,19 @@ a:hover{
   margin: 2px 0px 2px 0;
 }
 .share-new .icon-twitter{
-  background: url(images/twitter-variation.png) 0 center no-repeat;
+  background: url(images/tumbs/twitter-variation.png) 0 center no-repeat;
   padding: 4px 0px 0px 5px;
   font-size: 17px;
   margin-right: 3px;
 }
 .share-new .icon-rss{
-  background: url(images/rss-variation.png) 0 center no-repeat;
+  background: url(images/tumbs/rss-variation.png) 0 center no-repeat;
   padding: 4px 0px 0px 5px;
   font-size: 17px;
   margin-right: 0px;
 }
 .share-new .icon-mail{
-  background: url(images/email-variation.png) 0 center no-repeat;
+  background: url(images/tumbs/email-variation.png) 0 center no-repeat;
   padding: 4px 0px 0px 5px;
   font-size: 17px;
   margin-right: 0px;
@@ -139,7 +139,7 @@ a:hover{
   height: 105px;
   margin: 0 auto;
   margin-top: 190px;
-  background: url(images/background.png);
+  background: url(images/tumbs/background.png);
 }
 #lpblock h2{
   font-family: Bitter;
@@ -157,7 +157,7 @@ a:hover{
   position: absolute;
   left: 0px;
   bottom: 0px;
-  background: url(images/bgmenu.png) 0px 0px repeat-x;
+  background: url(images/tumbs/bgmenu.png) 0px 0px repeat-x;
 }
 #dropdown_nav{
   font-weight: bold;
@@ -176,7 +176,7 @@ a:hover{
   font-size: 18px;
   color: #fff;
   padding: 15px 22px 20px 22px;
-  background: url(images/linemenu.png) right no-repeat;
+  background: url(images/tumbs/linemenu.png) right no-repeat;
   -moz-transition: background-color 0.3s 0.01s ease;
   -o-transition: background-color 0.3s 0.01s ease;
   -webkit-transition: background-color 0.3s 0.01s ease;
@@ -227,7 +227,7 @@ a:hover{
   width: 120px;
   height: 29px;
   margin-bottom: 50px;
-  background: url(images/raz.png) 0px 0px no-repeat;
+  background: url(images/tumbs/raz.png) 0px 0px no-repeat;
 }
 /*Средний блок*/
 .info{
@@ -307,7 +307,7 @@ a:hover{
   top: 15px;
   width: 17px;
   height: 17px;
-  background: url(images/search.png) 0px 0px no-repeat;
+  background: url(images/tumbs/search.png) 0px 0px no-repeat;
   border: 0px dashed #333;
 }
 #form-querysub:hover{
@@ -322,7 +322,7 @@ a:hover{
 }
 .rightBox h2{
   width: 335px;
-  background:#f7f7f7 url(images/h2img.png) 320px 14px no-repeat;
+  background:#f7f7f7 url(images/tumbs/h2img.png) 320px 14px no-repeat;
   font-size: 18px;
   font-family: "Segoe UI Semibold", Tahoma, Helvetica, sans-serif;
   color: #333;
